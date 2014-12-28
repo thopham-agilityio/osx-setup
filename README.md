@@ -9,10 +9,12 @@ The bootstrap script to setup a Mac for lazy developer.
 
 To install you could use the [bootstrap script][1] using cURL:
 
-    curl https://raw.githubusercontent.com/thopham/osx-setup/master/bootstrap.sh | bash
+    curl https://raw.githubusercontent.com/thopham/osx-setup/master/bootstrap.sh
 
 or Wget:
     
-    wget -qO- https://raw.githubusercontent.com/thopham/osx-setup/master/bootstrap.sh | bash
+    wget -qO- https://raw.githubusercontent.com/thopham/osx-setup/master/bootstrap.sh
+    
+[1]: https://raw.githubusercontent.com/thopham/osx-setup/master/bootstrap.sh
 
    
